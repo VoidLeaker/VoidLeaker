@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello I'm Martin Ruzzle Z. Imperial👋
+
+WIP
+
+### Core Tech Stack
+* **Languages:** C++, C#, Python
+* **Engines & Frameworks:** UE5, Unity, SFML, Godot
+* **Tools & IDEs:** Visual Studio, VS Code, GitHub
+
+### Contacts
+WIP
 
 <!--
 **VoidLeaker/VoidLeaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
