@@ -7,7 +7,10 @@
 * **Tools & IDEs:** Visual Studio, VS Code, GitHub
 
 ### Contacts
-WIP
+* [LinkedIn](https://www.linkedin.com/in/voidleakerdev/)
+* [Twitter](https://x.com/v01d_D3V)
+* [Itch.io](https://voidleakerdev.itch.io/)
+* [YouTube](https://www.youtube.com/@VoidLeakerDev)
 
 <!--
 **VoidLeaker/VoidLeaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
