@@ -1,7 +1,6 @@
-## Hello I'm Martin Ruzzle Z. Imperial👋
-
-WIP
-
+## Hello I'm Martin Ruzzle👋
+**2nd Year Student | Teesside University**
+ 
 ### Core Tech Stack
 * **Languages:** C++, C#, Python
 * **Engines & Frameworks:** UE5, Unity, SFML, Godot
