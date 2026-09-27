@@ -1,12 +1,18 @@
-## Hello I'm Martin Ruzzle👋
+# Hello I'm Martin Ruzzle👋
 **2nd Year Student | Teesside University**
- 
-### Core Tech Stack
+
+## Tech Skills
 * **Languages:** C++, C#, Python
 * **Engines & Frameworks:** UE5, Unity, SFML, Godot
 * **Tools & IDEs:** Visual Studio, VS Code, GitHub
 
-### Contacts
+## Projects(WIP)
+
+## Notes
+
+WIP
+
+## Contacts
 * [LinkedIn](https://www.linkedin.com/in/voidleakerdev/)
 * [Twitter](https://x.com/v01d_D3V)
 * [Itch.io](https://voidleakerdev.itch.io/)
