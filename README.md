@@ -7,6 +7,9 @@
 * **Tools & IDEs:** Visual Studio, VS Code, GitHub
 
 ## Projects(WIP)
+Modular lab(WIP)
+Godot Lab(WIP)
+Game Engine(WIP)
 
 ## Notes
 
