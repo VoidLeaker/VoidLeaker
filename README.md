@@ -1,20 +1,20 @@
 # Hello I'm Martin Ruzzle👋
-**2nd Year Student | Teesside University**
+**2nd Year Student | Core Gameplay | Teesside University**
 
 ## Tech Skills
 * **Languages:** C++, C#, Python
 * **Engines & Frameworks:** UE5, Unity, SFML, Godot
 * **Tools & IDEs:** Visual Studio, VS Code, GitHub
 
-## Projects()
-* Modular lab(WIP)
-* Godot Lab(WIP)
-* Game Engine(WIP)
+## Projects
+* **Modular lab (Blueprint)** - (WIP)
+* **Godot Lab** -  (WIP)
+* **Game Engine** - (WIP)
 
 ## Notes
+Most repositories are either showcase or currently still working on, but most of repositories are private. Most still required Read.me
 
-WIP
-
+All repositories are written in English, other languages everywhere else.
 ## Contacts
 * [LinkedIn](https://www.linkedin.com/in/voidleakerdev/)
 * [Twitter](https://x.com/v01d_D3V)
