@@ -2,9 +2,9 @@
 **2nd Year Student | Core Gameplay | Teesside University**
 
 ## Tech Skills
-* **Languages:** C++, C#, Python
-* **Engines & Frameworks:** UE5, Unity, SFML, Godot
-* **Tools & IDEs:** Visual Studio, VS Code, GitHub
+* **Languages:** C++, C#, Python, GDscript
+* **Engines & Frameworks:** UE5, Unity, SFML, Godot, ImGui
+* **Tools & IDEs:** Visual Studio, VS Code, GitHub, Trello, JetRider
 
 ## Projects
 * **Modular lab (Blueprint)** - (WIP)
@@ -15,6 +15,7 @@
 Most repositories are either showcase or currently still working on, but most of repositories are private. Most still required Read.me
 
 All repositories are written in English, other languages everywhere else.
+
 ## Contacts
 * [LinkedIn](https://www.linkedin.com/in/voidleakerdev/)
 * [Twitter](https://x.com/v01d_D3V)
