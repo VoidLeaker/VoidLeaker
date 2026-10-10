@@ -7,9 +7,9 @@
 * **Tools & IDEs:** Visual Studio, VS Code, GitHub, Trello, JetRider
 
 ## Projects
-* **Modular lab (Blueprint)** - (WIP)
+* **[Modular lab (Blueprint)](https://github.com/VoidLeaker/ModularLab-Blueprint)** - An Unreal Engine 5 Lab showcase by using pure blueprints to create different types of game mechanics/systems. Only few systems will be shown in the project.
 * **Godot Lab** -  (WIP)
-* **Game Engine** - (WIP)
+* **[Custom 2D Game Engine](https://github.com/VoidLeaker/GEC_Custom-GameEngine)** - Project still being created. A C++, SFML and ImGui project for 2D games. (WIP)
 
 ## Notes
 Most repositories are either showcase or currently still working on, but most of repositories are private. Most still required Read.me
